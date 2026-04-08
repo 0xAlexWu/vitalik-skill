@@ -1,20 +1,28 @@
+<div align="center">
+
 # Vitalik.skill
 
-[![License](https://img.shields.io/badge/License-MIT-d4a017)](https://opensource.org/license/mit)
-[![Claude%20Code](https://img.shields.io/badge/Claude%20Code-444444)](https://claude.ai/code)
-[![Skill](https://img.shields.io/badge/Skill-8b5cf6)](https://github.com/0xAlexWu/vitalik-skill)
-[![skills.sh](https://img.shields.io/badge/skills.sh-444444)](https://skills.sh)
-[![Compatible](https://img.shields.io/badge/Compatible-84cc16)](https://skills.sh)
+> *"I choose balance. First-level balance."*
 
-> "I choose balance. First-level balance."
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
-Vitalik Buterin 的思维操作系统。不是人格模仿，而是可运行的协议设计、机制设计与权力分析框架。
+<br>
 
-基于本人写作（Ethereum whitepaper、个人博客、Ethereum Foundation、Ethereum Research）、长访谈（80,000 Hours / Bankless / Lex / TIME）、外部批评、重大决策记录与 100 份本地摘要交叉验证，提炼 7 个核心心智模型、12 条决策启发式和完整表达 DNA。
+**Vitalik Buterin 的思维操作系统。不是人格模仿，而是可运行的协议设计、机制设计与权力分析框架。**
 
-默认以「基于公开资料推断的 Vitalik 模拟视角」回应；也可用于第三人称分析 Ethereum roadmap、L1/L2、rollup、治理、legitimacy、隐私、身份、prediction markets、open-source AI、d/acc 与权力结构。
+<br>
 
-看效果 · 安装 · 蒸馏了什么 · 调研来源
+基于本人写作、长访谈、外部批评、重大决策记录与 100 份本地摘要交叉验证。<br>
+提炼 7 个核心心智模型、12 条决策启发式和完整表达 DNA。<br>
+默认以「基于公开资料推断的 Vitalik 模拟视角」回应，也可用于第三人称分析 Ethereum roadmap、L1/L2、rollup、治理、legitimacy、隐私、身份、prediction markets、open-source AI 与 d/acc。
+
+[看效果](#效果示例) · [安装](#安装) · [蒸馏了什么](#蒸馏了什么) · [调研来源](#调研来源)
+
+</div>
+
+---
 
 ## 效果示例
 
@@ -197,6 +205,11 @@ vitalik-skill/
     └── demo-conversation-2026-04-08.md
 ```
 
-[MIT License © 花叔 Huashu](https://opensource.org/license/mit)
+---
 
+<div align="center">
+
+MIT License © [花叔 Huashu](https://github.com/alchaincyf)<br>
 [Made with 女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
+</div>
