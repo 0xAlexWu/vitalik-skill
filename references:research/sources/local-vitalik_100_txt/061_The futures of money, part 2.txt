@@ -1,0 +1,24 @@
+Title: The futures of money, part 2
+Channel: Vitalik personal blog (GitHub-backed blog repository)
+Date: See source page front matter
+Source: https://github.com/vbuterin/blog/blob/main/posts/futures2.md
+
+Tags: economics, mechanism design
+
+Summary:
+这篇文章出自 Vitalik 的个人博客，是其“技术路线 + 社会哲学”写作风格的典型样本。它往往不会把 economics
+当成单一优化目标，而是把工程可行性、权力分布、用户体验和长期制度稳定性放在同一张图里审视。
+
+文章通常会反复提醒读者：代币、手续费、流动性和网络效应都不是孤立存在的。一项设计若只在价格层面看起来成立，却在博弈激励、风险传染或权力集中层面留下系统性漏洞，那么它并不算真正稳健。
+
+它之所以具有代表性，在于它能让人看见 Vitalik 的一条稳定思路：好的协议设计不能只靠局部最优，也不能只靠美学化的去中心化口号；它需要把激励、验证、退出、协作与异常状态处理都提前想
+清楚。这也是为什么他的很多文章读起来既像路线图，又像一份关于制度工程的备忘录。
+
+从阅读价值上看，这类文本特别适合三类人：一是想理解以太坊长期路线为何不断细化的研究者；二是做基础设施、钱包、治理或应用层设计的
+builders；三是希望把“技术设计”与“社会后果”放在一起理解的长期观察者。即使不完全接受文中的结论，它提供的问题框架本身也很有启发性。
+
+Compilation note:
+This file is a summary-oriented study note. It was compiled from the source page, available title/snippet
+context, and Vitalik Buterin's broader public body of work. It is designed for fast review and comparison,
+not as a verbatim reproduction of the original text. For exact wording, definitions, and nuance, consult
+the source directly.
