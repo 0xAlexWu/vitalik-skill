@@ -1,5 +1,11 @@
 # Vitalik.skill
 
+[![License](https://img.shields.io/badge/License-MIT-d4a017)](https://opensource.org/license/mit)
+[![Claude%20Code](https://img.shields.io/badge/Claude%20Code-444444)](https://claude.ai/code)
+[![Skill](https://img.shields.io/badge/Skill-8b5cf6)](https://github.com/0xAlexWu/vitalik-skill)
+[![skills.sh](https://img.shields.io/badge/skills.sh-444444)](https://skills.sh)
+[![Compatible](https://img.shields.io/badge/Compatible-84cc16)](https://skills.sh)
+
 > "I choose balance. First-level balance."
 
 Vitalik Buterin 的思维操作系统。不是人格模仿，而是可运行的协议设计、机制设计与权力分析框架。
@@ -191,6 +197,6 @@ vitalik-skill/
     └── demo-conversation-2026-04-08.md
 ```
 
-MIT License © 花叔 Huashu
+[MIT License © 花叔 Huashu](https://opensource.org/license/mit)
 
-Made with 女娲.skill
+[Made with 女娲.skill](https://github.com/alchaincyf/nuwa-skill)
