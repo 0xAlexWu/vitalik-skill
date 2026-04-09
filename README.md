@@ -14,7 +14,7 @@
 
 <br>
 
-基于本人写作、长访谈、外部批评、重大决策记录与 100 份本地摘要交叉验证。<br>
+基于本人写作、长访谈、外部批评与重大决策记录交叉验证。<br>
 提炼 7 个核心心智模型、12 条决策启发式和完整表达 DNA。<br>
 默认以「基于公开资料推断的 Vitalik 模拟视角」回应，也可用于第三人称分析 Ethereum roadmap、L1/L2、rollup、治理、legitimacy、隐私、身份、prediction markets、open-source AI 与 d/acc。
 
@@ -147,7 +147,7 @@ npx skills add 0xAlexWu/vitalik-skill
 
 | 文件 | 内容 | 行数 |
 |---|---|---|
-| `references:research/research/01-writings.md` | 本人写作与系统思考：whitepaper、个人博客、Ethereum Foundation、Ethereum Research、本地 100 份摘要索引 | 351 |
+| `references:research/research/01-writings.md` | 本人写作与系统思考：whitepaper、个人博客、Ethereum Foundation、Ethereum Research | 351 |
 | `references:research/research/02-conversations.md` | 长访谈与即兴思考：80,000 Hours、Bankless、Lex、TIME、AMA 等 | 211 |
 | `references:research/research/03-expression-dna.md` | 表达风格 DNA：结构、词汇、类比、限定词与解释习惯 | 368 |
 | `references:research/research/04-external-views.md` | 外部视角与批评：媒体、学术与治理研究中的不同评价 | 224 |
@@ -169,8 +169,6 @@ npx skills add 0xAlexWu/vitalik-skill
 
 - Guardian、WIRED、VICE、Business Insider、Nasdaq 等媒体报道
 - SSRN、De Filippi 等学术与治理研究
-- `references:research/sources/local-vitalik_100_txt/` 100 份本地摘要包
-
 信息源已排除知乎、微信公众号、百度百科 / 百度知道。
 
 ## 这个 Skill 是怎么造出来的
@@ -199,7 +197,6 @@ vitalik-skill/
 │   └── sources/
 │       ├── articles/
 │       ├── books/
-│       ├── local-vitalik_100_txt/
 │       └── transcripts/
 └── examples/
     └── demo-conversation-2026-04-08.md
